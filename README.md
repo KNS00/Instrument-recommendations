@@ -5,7 +5,7 @@ This repository contains the report for my project on building and fine-tuning w
 # Code Structure
 The notebooks contain code for the following parts:
 
-* Initialization: pre-processing of data
-* CF.ipynb: fine-tuning the CF models
-* NLP: text processing and building the Word2Vec content based recommender system
+* Initialization: pre-processing of data.
+* CF: fine-tuning and evaluation of the CF models.
+* NLP: text processing and building the Word2Vec content based recommender system.
 * Hybrid: building the parallel hybrid and the LLM-content-based system.
