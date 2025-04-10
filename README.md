@@ -8,6 +8,6 @@ The [slides](https://github.com/KNS00/Instrument-recommendations/blob/main/prese
 The notebooks contain code for the following parts:
 
 * Initialization: pre-processing of data.
-* CF: fine-tuning and evaluation of the CF models.
+* CF: fine-tuning and evaluation of collaborative filtering models.
 * NLP: text processing and building the Word2Vec content based recommender system.
 * Hybrid: building the parallel hybrid and the Llama-3.2-1B content-based system.
